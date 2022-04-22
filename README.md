@@ -1,11 +1,14 @@
 [![MasterHead](https://www.bestagencies.com/wp-content/uploads/2014/01/desk.gif)](https://linkedin.com/in/marcpfrancisco)
 
 <h1 align="center">Hi 👋, I'm Marc Francisco</h1>
-<h3>Software Developer based in the Philippines.</h3>
+<h3>Software Engineer based in the Philippines.</h3>
 <img align="right" alt="developer" width="400" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif" />
-<h4>I am a young professional eager to learn new knowledge and share ideas with others. I like to design and develop responsive websites through my dark text editor. Angular and React are my stack used on projects I developed. Later on, I want to work myself on Vue/Nuxt and a touch of Backend tools such as Node JS and Java Spring Boot.</h4>
+<h4>A young professional eager to learn new knowledge and share ideas with others. I like to design and develop dynamic websites through my dark text editor. I have been in the industry for a couple of years now as a Software Engineer and have worked on projects built on Angular and React JS.
+I also find thrill working on Backend stuff such as Java Spring Boot and NodeJS. 
+Later on I want to work myself on learning Docker and Kubernetes for DevOps.</h4>
 
 - 🌱 I want to learn more about **Docker and Kubernetes**
+- 🌱 I want to have working knowledge on **Creating CI/CD Pipelines and Unit Testing**
 - 📫 How to reach me **marcpfrancisco@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
