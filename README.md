@@ -1,7 +1,7 @@
 <!-- Profile README -->
 
 <h1 align="center">Hey 👋, I'm Marc Francisco</h1>
-<h3 align="center">Full-Stack Developer | Builder of Scalable & Modern Web Apps 🚀</h3>
+<h3 align="center">Full-Stack Software Engineer | Builder of Scalable & Modern Web Apps 🚀</h3>
 
 ---
 
